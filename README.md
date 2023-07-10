@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/564x/68/19/b4/6819b4e962d8fbe922ab3609b64c76ab.jpg" min-width="250px" max-width="250px" width="250px" align="right" alt="Girl cyberpunk">
 
 <p align="left"> 
-  Oie, me chamo Luna Trevisan (a.k.a cyberlua), sou natural de Pernambuco e estou me formando em <strong>Front-end</strong>. Sou amante dos jogos digitais e amando a programação.<br>
+  Oie, me chamo Luna Trevisan (a.k.a cyberlua), sou natural de Pernambuco e estou me formando em <strong>Front-end</strong>. Sou amante dos jogos digitais e amo felinos.<br>
   Sou estudante de Front-end pela Reprograma quase me formando e desenvolvi vários projetos durante essa jornada. Assim que me formar vou continuar estudando novas tecnologias pela Alura onde ganhei a matrícula e to ansiosa para aprender cada vez mais e me jogar nesse universo de códigos. 
 </p>
 
@@ -30,13 +30,13 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="cyberlua7@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=cyberlua7@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/cyberlua7/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyberlua7/" /></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/cyberlua7/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/cyberlua7/"/></a>
 </p>  
 
