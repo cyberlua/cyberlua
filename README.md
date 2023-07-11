@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/564x/68/19/b4/6819b4e962d8fbe922ab3609b64c76ab.jpg" min-width="250px" max-width="250px" width="250px" align="right" alt="Girl cyberpunk">
 
 <p align="left"> 
-  Oie, me chamo Luna Trevisan (a.k.a cyberlua), sou natural de Pernambuco e estou me formando em <strong>Front-end</strong>. Sou amante dos jogos digitais e amo felinos.<br>
+  Oie, me chamo Luna Trevisan (a.k.a cyberlua), sou natural de Pernambuco, sou amante dos jogos digitais e amo felinos.<br>
   Sou estudante de Front-end pela Reprograma quase me formando e desenvolvi vários projetos durante essa jornada. Assim que me formar vou continuar estudando novas tecnologias pela Alura onde ganhei a matrícula e to ansiosa para aprender cada vez mais e me jogar nesse universo de códigos. 
 </p>
 
