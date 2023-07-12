@@ -3,7 +3,7 @@
 <p align="left"> 
   Oie, me chamo Luna (a.k.a cyberlua) sou amante dos jogos digitais e amo felinos.<br>
   Estudante de Front-end pela Reprograma, desenvolvi vários projetos durante essa jornada.<br>
-  Compartilho aqui meus principais projetos e continuo explorando novas tecnologias. To animada para oportunidades em projetos inovadores e colaborar com equipes fortalecendo a presença feminina na área de tecnologia. 
+  Compartilho aqui meus principais projetos e continuo explorando novas tecnologias. To animada para oportunidades em projetos inovadores e colaborar com equipes fortalecendo a presença feminina na área da tecnologia. 
 </p>
 
 
